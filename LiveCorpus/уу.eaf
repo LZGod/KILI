@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2017-12-10T01:05:57+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Z/Videos/MOV_0004.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../Videos/MOV_0004.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:bf9c91c0-9b31-498b-82b7-a08bd1855920</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">46</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="11520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="11520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="16760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="16950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="19360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="20260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="24010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="24620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="34090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="34620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="43930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="44020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="48720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="49470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="59130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="59390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="62840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="64960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="67480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="70020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="73990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="75630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="82210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="82250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="89840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="89990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="95540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="95950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="103570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="104400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="111500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="111700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="116600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="116600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="118700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="118700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="121559"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="121565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="129853"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="129900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="132000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="132000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="134000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="134100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="140300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="140500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="148500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="148750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="151406"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="151468"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="156031"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="157312"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="159140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="160062"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="165156"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="165406"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="167750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="167901"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="171163"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="171278"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="179901"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="180524"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="183213"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="183617"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="185044"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="185089"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="193044"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="196255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="201622"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="201633"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="209040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="210864"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="212945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="213283"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="223432"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="224000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="227945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="228729"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="230094"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="231067"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="240445"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="240810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="241977"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="241977"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="252900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="252933"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="255622"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="256922"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="259033"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="paragraph" TIER_ID="Я@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Эээ, Роман, вы можете рассказать что-нибудь про контингент, который присутствовал на концерте и про...ооо...общую атмосферу чуть побольше.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>Ооо...Прекрасно. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>Можете вкратце рассказать про именно сам "День Вышки" и что там было помимо концерта?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>Большое вам спасибо. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>Ааа...В целом, вам понравился опыт "Дня Вышки", концерта иии вообще всего, что там было, и хотели бы вы повторить это...в будущем?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>Спасибо вам большое за интервью, Роман.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="paragraph" TIER_ID="Роман@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Мне удалось урвать один...но по билету проходить слишком скучно, когда ты молодой и хочешь приключений, ловишь периодически уток.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>И полезли через забор, прятались от охранников, было хорошо. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Не всем, мне - определённо да. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Концерт показался сначала довольно посредственным. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Ну, группа "Градусы", она на меня никогда хорошего впечатления не производила, вчера не произвела и вряд ли произведёт когда-либо ещё.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Было скучно, сидел в телефончике, стоял, точнее, в телефончике и...ну, о жизни думал наверно. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Потом группа "Градусы" ушла, я выдохнул с облегчением. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Начались какие-то ролики про "День Вышки" 2015 года, другие вещи - интересные, не очень интересные, разное было. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Ну, начала толпа скандировать: "Нойз МС!"</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>И вышел собственно Нойз МС. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Никогда не слушал этого человека замечательного.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Слышал когда-то пару песен, причём слышал очень часто и [нрзб] даже знаю их наизусть.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Ну, я узнал очень важную вещь: оказывается, Нойз МС делает не проклятый рэпчик, а настоящий рок. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>И, неожиданно для себя, мне...мне, честно говоря, чертовски понравилось. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Я...за концерт этого самого Нойза МС убил голос и сбросил киллограмма два.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Несмотря на то, что я не знал слов, я практически сразу вспоминал какие-нибудь припевы и орал, гм.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Ну, в общем, там было очень хорошо, по [нрзб] крайней мере мне. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>Не ожидал, что мне так понравится. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Ну ещё он классно читает [нрзб)(абсолютно)].</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>Общая атмосфера? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Счастливые люди просто. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Ну, большинству нравилось, они все улыбались, кричали, пели, орали, так же как и я. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>В общем-то...ааа...никакого...никакого такого страшного агальства там не происходило. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>Мне кажется, даже пьяных было не особенно много. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Я, по крайней мере, не заметил ни одного, но вот чтобы не было ни одного - это скорее невозможно. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>Некоторым было откровенно скучно. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>Охрана всё время прессовала кого-то за то, что переле...перелезали через ограду. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Мне это удалось сделать безболезненно, к счастью. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Ну, в целом, атмосфера была максимально дружелюбная. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>Ну, концерт - это вообще такая интимная вещь, люди сливаются в что-то одно, такое большое, органическое и духовное. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>Хорошая была атмосфера, дружелюбная. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>Честно говоря, я не занимался на "День Вышки" ничем особенным. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>Я хотел действительно принять участие в некоторых мероприятиях, но, к сожалению, всё моё время ушло на ловлю уток. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>Не хотелось бы вдаваться в подробности. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>Но, к сожалению, я не тот человек, который мог бы [нрзб] о "Дне Вышки" рассказать что-то действительно стоящее, точнее стоящее я могу </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>Уток ловить - интересно. Рекомендую. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>Не знаю насчёт повторить. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>Когда что-то повторяешь, это становится уже не таким весёлым как в первый раз, но-о вчера мне определённо понравилось, был хороший день, я </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>Не помню, когда [нрзб] такое было в последний раз вообще.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="paragraph" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="association" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="subdivision" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
